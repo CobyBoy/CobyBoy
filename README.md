@@ -5,7 +5,7 @@ I'm a Frontend Developer
 - 🌱 I’m currently learning Angular, React, NET Core
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Coby-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroxacosta/)](https://www.linkedin.com/in/alejandroxacosta/)
-[![Gmail Badge](https://img.shields.io/badge/-acostaxalejandro-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:acostaxalejandro@gmail.com)](mailto:acostaxalejandro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/style=flat&logo=Gmail&logoColor=white&link=mailto:acostaxalejandro@gmail.com)](mailto:acostaxalejandro@gmail.com)
 
 
 <!---
