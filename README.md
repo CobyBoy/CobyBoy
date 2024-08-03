@@ -1,6 +1,6 @@
 # 👋 Hello world! I’m Alejandro, aka Coby. 
 I'm a Frontend Developer
--  🔭 I'm currently working at JP Morgan Chase & Co. as a Software Engineer with Angular and Java
+-  🔭 I'm currently working at JP Morgan Chase & Co. as a Software Engineer with Angular and Spring Boot
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Angular, React, NET Core
 - 💞️ I’m looking to collaborate on open source projects
